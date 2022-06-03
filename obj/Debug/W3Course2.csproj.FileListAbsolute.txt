@@ -1,0 +1,7 @@
+C:\Programming\CSharp\W3Course2\W3Course2\bin\Debug\W3Course2.exe.config
+C:\Programming\CSharp\W3Course2\W3Course2\bin\Debug\W3Course2.exe
+C:\Programming\CSharp\W3Course2\W3Course2\bin\Debug\W3Course2.pdb
+C:\Programming\CSharp\W3Course2\W3Course2\obj\Debug\W3Course2.csproj.AssemblyReference.cache
+C:\Programming\CSharp\W3Course2\W3Course2\obj\Debug\W3Course2.csproj.CoreCompileInputs.cache
+C:\Programming\CSharp\W3Course2\W3Course2\obj\Debug\W3Course2.exe
+C:\Programming\CSharp\W3Course2\W3Course2\obj\Debug\W3Course2.pdb
